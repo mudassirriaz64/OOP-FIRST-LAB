@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Combined Program.cpp">
+    <ClCompile Include="Combined TASK 1,2,3,4,5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="VEHICLE PROGRAM.cpp">
