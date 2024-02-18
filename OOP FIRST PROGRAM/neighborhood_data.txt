@@ -1,7 +1,0 @@
-Person Name: Mudassir
-Person Age: 19
-House Name: Riaz House
-Pet Name: Max
-Pet Breed: Husky
-Pet Age: 4
-
